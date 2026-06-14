@@ -1,2 +1,1 @@
-# AUTO
-autoanswer
+# auto-answer
